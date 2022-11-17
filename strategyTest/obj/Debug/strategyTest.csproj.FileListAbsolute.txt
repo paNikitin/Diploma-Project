@@ -1,0 +1,12 @@
+C:\Users\aboba\source\repos\strategyTest\strategyTest\bin\Debug\strategyTest.exe.config
+C:\Users\aboba\source\repos\strategyTest\strategyTest\bin\Debug\strategyTest.exe
+C:\Users\aboba\source\repos\strategyTest\strategyTest\bin\Debug\strategyTest.pdb
+C:\Users\aboba\source\repos\strategyTest\strategyTest\obj\Debug\strategyTest.csproj.AssemblyReference.cache
+C:\Users\aboba\source\repos\strategyTest\strategyTest\obj\Debug\strategyTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\aboba\source\repos\strategyTest\strategyTest\obj\Debug\strategyTest.csproj.CoreCompileInputs.cache
+C:\Users\aboba\source\repos\strategyTest\strategyTest\obj\Debug\strategyTest.exe
+C:\Users\aboba\source\repos\strategyTest\strategyTest\obj\Debug\strategyTest.pdb
+C:\Users\aboba\source\repos\strategyTest\strategyTest\obj\Debug\strategyTest.Form1.resources
+C:\Users\aboba\source\repos\strategyTest\strategyTest\obj\Debug\strategyTest.csproj.GenerateResource.cache
+C:\Users\aboba\source\repos\strategyTest\strategyTest\obj\Debug\strategyTest.PopUpForm.resources
+C:\Users\aboba\source\repos\strategyTest\strategyTest\obj\Debug\strategyTest.WeightSaveForm.resources
